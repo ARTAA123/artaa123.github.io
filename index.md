@@ -1,6 +1,7 @@
 ---
 layout: default
----# [Nombre de la Persona]
+---
+# [Nombre de la Persona]
 [Correo Electrónico]  
 [Dirección]  
 [Número de Teléfono]  
