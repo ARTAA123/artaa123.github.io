@@ -1,110 +1,104 @@
 ---
 layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-# [Nombre Completo]
-
-## Estudiante de Ingeniería en Computación
-
-[Correo Electrónico] | [Número de Teléfono] | [LinkedIn] | [GitHub]
+---# [Nombre de la Persona]
+[Correo Electrónico]  
+[Dirección]  
+[Número de Teléfono]  
 
 ---
 
-## Resumen Profesional
+## Profile Summary
 
-Soy un estudiante de Ingeniería en Computación con una sólida formación en desarrollo de software, programación orientada a objetos, administración de sistemas y desarrollo en la nube. Mi enfoque en la investigación y la aplicación de nuevos conocimientos me impulsa a ofrecer soluciones innovadoras en escenarios del mundo real. Estoy preparado para enfrentar desafíos técnicos y contribuir de manera significativa en roles desafiantes.
+A motivated and detail-oriented computer engineering student with a robust foundation in **software development**, particularly in **object-oriented programming** and **computer systems architecture**. I bring hands-on experience in **system administration** and **cloud development**, paired with a solid understanding of **network communication** and **cybersecurity principles**. My relentless pursuit of knowledge drives me to stay ahead of technological trends, enabling me to apply innovative solutions in real-world scenarios. Known for my proactive approach and commitment to excellence, I am poised to contribute effectively in challenging technical roles.
 
 ---
 
-## Formación Académica
+## Academic Training
 
 - **Universidad Estatal a Distancia**  
-  Título en Ingeniería en Computación (En curso)  
-  Diplomado en Ciencias de la Computación (2023)
+  - Bachelor’s degree in Computer Engineering (In progress)  
+  - Diploma in Computer Science (2023)  
+  - Workshops: "Cybersecurity and Computer Crime" (8 hours, 2023), ISO 25010 Software Quality Assessment (9 hours), Selecting a FLOSS Scheme (8 hours)
 
 - **Cisco Networking Academy**  
-  Python Essentials 1  
-  Introducción a la Ciberseguridad
+  - Python Essentials 1 (2023)  
+    [View Certificate](https://www.credly.com/badges/33d59510-88c2-44a0-85c9-65fef7b44da0/public_url)  
+  - Introduction to Cybersecurity (2023)  
+    [View Certificate](https://www.credly.com/badges/1ad801a4-065f-4e12-8642-5f6be80b71c1/public_url)
 
 - **Johns Hopkins University**  
-  The Data Scientist's Toolbox
+  - The Data Scientist's Toolbox (2020)  
+    [View Certificate](https://coursera.org/share/50c7a3e1562c3801de4c9fa19443501e)
 
 - **Universidad de Costa Rica**  
-  Estudiante de Maestría en Gerontología  
-  Título en Enfermería (2016)
+  - Advanced Master’s Degree Student in Gerontology  
+  - Degree in Nursing (2016)  
+  - Certifications: Hospital Waste Management, Fire Prevention and Fighting Training Laboratory, Post HIV Test Consulting, Ethical and Legal Impact of the Use of Social Networks in the Health Area
 
 - **Universidad Americana**  
-  Introducción Básica al Inglés
+  - Basic Introduction to English
 
 - **AuthorAID Latindex**  
-  Habilidades en Escritura Científica
+  - Scientific Writing Skills
 
 ---
 
-## Habilidades
+## Skills
 
-- **Lenguajes de Programación & Frameworks:**  
-  Java, C++, Python, C#, SQL, NoSQL, HTML, CSS, JavaScript, React
+- **Programming Languages & Frameworks**:  
+  - Java (Spring), C++, Python (Pandas, Matplotlib, NumPy, Django, Flask)  
+  - C# (.NET, Visual Studio), SQL (MSQL, MySQL), NoSQL (MongoDB)  
+  - HTML, CSS, JavaScript, React
 
-- **Prácticas de Desarrollo de Software:**  
-  Estructuras de Datos, Programación Orientada a Objetos, Control de Versiones
+- **Software Development Practices**:  
+  - Data Structures, Object-Oriented Programming, Functional Programming  
+  - Version Control: GIT, GitHub
 
-- **Contenedores & Virtualización:**  
-  Docker, VirtualBox, VMware
+- **Containers & Virtualization**:  
+  - Containers: Docker  
+  - Virtualization: VirtualBox, VMware
 
-- **Herramientas de Red & Análisis:**  
-  OSI, TCP/IP, WireShark, NMAP, Power BI
+- **Network & Analytics Tools**:  
+  - Network Knowledge: OSI, TCP/IP Protocols, Network Topologies  
+  - Analytics Tools: WireShark, NMAP, Power BI
 
-- **Sistemas Operativos & Administración:**  
-  Linux, Windows, Soporte Técnico
+- **Operating Systems & Administration**:  
+  - Linux OS: Kali Linux, Fedora, Ubuntu, Debian (Bash Scripting, Program Installation, User Administration)  
+  - Windows: Installation, Administration  
+  - Technical Support: Installation, Troubleshooting  
+  - Selection of a FLOSS Scheme, ISO 25010 Knowledge
 
-- **Productividad en Oficina:**  
-  Microsoft Office
+- **Office Productivity**:  
+  - Microsoft Office: Word, Excel, PowerPoint, Power BI
 
-- **Habilidades Blandas:**  
-  Trabajo en Equipo, SCRUM, Gestión del Tiempo, Resolución de Problemas
-
----
-
-## Experiencia Laboral
-
-- **Enfermera (CCSS)**  
-  *2020 – Presente*  
-  - Atención quirúrgica, cuidado de pacientes y coordinación de equipos.
-
-- **Enfermera Jefa (COOPESIBA)**  
-  *2019 – 2020*  
-  - Liderazgo en equipos de atención de emergencia, manejo de situaciones críticas.
-
-- **Enfermera Jefa (Casa Estancia Pittier)**  
-  *2019*  
-  - Gestión de equipos y resolución de situaciones complejas en centros de cuidado de ancianos.
-
-- **Enfermera Jefa (Hogar Mixto de Ancianos San Francisco de Asís)**  
-  *2017 – 2019*  
-  - Gestión de recursos y equipos, cuidado crítico en instalaciones para ancianos.
-
-- **Enfermera (Natural Team Building)**  
-  *2016*  
-  - Atención de enfermería durante actividades de team building.
+- **Soft Skills**:  
+  - Teamwork, SCRUM, Time Management, Fast Learning, Problem-Solving  
+  - Creative Thinking, Adaptability, Excellent Customer Service, Persistence  
+  - Detail-Oriented, Critical Thinking, Proactive, Emotional Intelligence
 
 ---
 
-## Proyectos Destacados
+## Work Experience
 
-- **GreenBOX**  
-  Desarrollo de una estrategia basada en el concepto de Océano Azul.
+**Nurse (CCSS)**  
+*2020 – Present*  
+- Surgical nursing, patient care, and team coordination.
 
-- **Mokkilicores Express**  
-  Creación de una API en ASP.NET Core para gestionar clientes e inventario.
+**Head Nurse (COOPESIBA)**  
+*2019 – 2020*  
+- Led emergency care teams, managed critical situations, and provided top-tier customer service.
 
-- **Calculadora Financiera Básica**  
-  Aplicación para cálculos financieros básicos con interfaz minimalista.
+**Head Nurse (Casa Estancia Pittier)**  
+*2019*  
+- Managed teams, resolved complex situations, and ensured quality care in elderly care centers.
 
----
+**Head Nurse (Hogar Mixto de Ancianos San Francisco de Asís)**  
+*2017 – 2019*  
+- Resource and team management, problem-solving, and critical care in elderly care facilities.
+
+**Nurse (Natural Team Building)**  
+*2016*  
+- Provided nursing care during team-building activities.
+
 
 © [Año Actual] [Nombre Completo]. Todos los derechos reservados.
