@@ -6,118 +6,105 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# [Nombre Completo]
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Estudiante de Ingeniería en Computación
 
-# Header 1
+[Correo Electrónico] | [Número de Teléfono] | [LinkedIn] | [GitHub]
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Resumen Profesional
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Soy un estudiante de Ingeniería en Computación con una sólida formación en desarrollo de software, programación orientada a objetos, administración de sistemas y desarrollo en la nube. Mi enfoque en la investigación y la aplicación de nuevos conocimientos me impulsa a ofrecer soluciones innovadoras en escenarios del mundo real. Estoy preparado para enfrentar desafíos técnicos y contribuir de manera significativa en roles desafiantes.
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Formación Académica
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Universidad Estatal a Distancia**  
+  Título en Ingeniería en Computación (En curso)  
+  Diplomado en Ciencias de la Computación (2023)
 
-#### Header 4
+- **Cisco Networking Academy**  
+  Python Essentials 1  
+  Introducción a la Ciberseguridad
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Johns Hopkins University**  
+  The Data Scientist's Toolbox
 
-##### Header 5
+- **Universidad de Costa Rica**  
+  Estudiante de Maestría en Gerontología  
+  Título en Enfermería (2016)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- **Universidad Americana**  
+  Introducción Básica al Inglés
 
-###### Header 6
+- **AuthorAID Latindex**  
+  Habilidades en Escritura Científica
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Habilidades
 
-* * *
+- **Lenguajes de Programación & Frameworks:**  
+  Java, C++, Python, C#, SQL, NoSQL, HTML, CSS, JavaScript, React
 
-### Here is an unordered list:
+- **Prácticas de Desarrollo de Software:**  
+  Estructuras de Datos, Programación Orientada a Objetos, Control de Versiones
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- **Contenedores & Virtualización:**  
+  Docker, VirtualBox, VMware
 
-### And an ordered list:
+- **Herramientas de Red & Análisis:**  
+  OSI, TCP/IP, WireShark, NMAP, Power BI
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- **Sistemas Operativos & Administración:**  
+  Linux, Windows, Soporte Técnico
 
-### And a nested list:
+- **Productividad en Oficina:**  
+  Microsoft Office
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- **Habilidades Blandas:**  
+  Trabajo en Equipo, SCRUM, Gestión del Tiempo, Resolución de Problemas
 
-### Small image
+---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Experiencia Laboral
 
-### Large image
+- **Enfermera (CCSS)**  
+  *2020 – Presente*  
+  - Atención quirúrgica, cuidado de pacientes y coordinación de equipos.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- **Enfermera Jefa (COOPESIBA)**  
+  *2019 – 2020*  
+  - Liderazgo en equipos de atención de emergencia, manejo de situaciones críticas.
 
+- **Enfermera Jefa (Casa Estancia Pittier)**  
+  *2019*  
+  - Gestión de equipos y resolución de situaciones complejas en centros de cuidado de ancianos.
 
-### Definition lists can be used with HTML syntax.
+- **Enfermera Jefa (Hogar Mixto de Ancianos San Francisco de Asís)**  
+  *2017 – 2019*  
+  - Gestión de recursos y equipos, cuidado crítico en instalaciones para ancianos.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- **Enfermera (Natural Team Building)**  
+  *2016*  
+  - Atención de enfermería durante actividades de team building.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+## Proyectos Destacados
+
+- **GreenBOX**  
+  Desarrollo de una estrategia basada en el concepto de Océano Azul.
+
+- **Mokkilicores Express**  
+  Creación de una API en ASP.NET Core para gestionar clientes e inventario.
+
+- **Calculadora Financiera Básica**  
+  Aplicación para cálculos financieros básicos con interfaz minimalista.
+
+---
+
+© [Año Actual] [Nombre Completo]. Todos los derechos reservados.
