@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-# [Nombre de la Persona]
-[Correo Electrónico]  
-[Dirección]  
-[Número de Teléfono]  
 
 ---
 
@@ -79,27 +75,4 @@ A motivated and detail-oriented computer engineering student with a robust found
 
 ---
 
-## Work Experience
-
-**Nurse (CCSS)**  
-*2020 – Present*  
-- Surgical nursing, patient care, and team coordination.
-
-**Head Nurse (COOPESIBA)**  
-*2019 – 2020*  
-- Led emergency care teams, managed critical situations, and provided top-tier customer service.
-
-**Head Nurse (Casa Estancia Pittier)**  
-*2019*  
-- Managed teams, resolved complex situations, and ensured quality care in elderly care centers.
-
-**Head Nurse (Hogar Mixto de Ancianos San Francisco de Asís)**  
-*2017 – 2019*  
-- Resource and team management, problem-solving, and critical care in elderly care facilities.
-
-**Nurse (Natural Team Building)**  
-*2016*  
-- Provided nursing care during team-building activities.
-
-
-© [Año Actual] [Nombre Completo]. Todos los derechos reservados.
+© 2024. Todos los derechos reservados.
