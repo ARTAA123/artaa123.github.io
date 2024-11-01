@@ -69,7 +69,7 @@ A motivated and detail-oriented computer engineering student with a robust found
   - Microsoft Office: Word, Excel, PowerPoint, Power BI
 
 - **Soft Skills**:  
-  - Teamwork, [SCRUM]{https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JorgeArturoBadillaElizondo-1054594.pdf}, Time Management, Fast Learning, Problem-Solving  
+  - Teamwork, SCRUM, Time Management, Fast Learning, Problem-Solving  
   - Creative Thinking, Adaptability, Excellent Customer Service, Persistence  
   - Detail-Oriented, Critical Thinking, Proactive, Emotional Intelligence
 
