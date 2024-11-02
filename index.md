@@ -26,7 +26,9 @@ A motivated and detail-oriented computer engineering student with a robust found
 - **Johns Hopkins University**  
   - The Data Scientist's Toolbox (2020)  
     [View Certificate](https://coursera.org/share/50c7a3e1562c3801de4c9fa19443501e)
-
+    
+  
+  
 - **Universidad de Costa Rica**  
   - Advanced Master’s Degree Student in Gerontology  
   - Degree in Nursing (2016)  
@@ -68,8 +70,9 @@ A motivated and detail-oriented computer engineering student with a robust found
 - **Office Productivity**:  
   - Microsoft Office: Word, Excel, PowerPoint, Power BI
 
-- **Soft Skills**:  
-  - Teamwork, SCRUM, Time Management, Fast Learning, Problem-Solving  
+- **Soft Skills**:
+  - SCRUM [View Certificate](https://www.scrumstudy.com/certification/verify?type=SFC&number=1054594)
+  - Teamwork, Time Management, Fast Learning, Problem-Solving  
   - Creative Thinking, Adaptability, Excellent Customer Service, Persistence  
   - Detail-Oriented, Critical Thinking, Proactive, Emotional Intelligence
 
