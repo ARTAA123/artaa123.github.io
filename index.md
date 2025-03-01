@@ -27,8 +27,18 @@ A motivated and detail-oriented computer engineering student with a robust found
   - The Data Scientist's Toolbox (2020)  
     [View Certificate](https://coursera.org/share/50c7a3e1562c3801de4c9fa19443501e)
     
-  
-  
+- **Google**  
+  - Introduction to Security Principles in Cloud Computing (2025)  
+    [View Certificate](https://coursera.org/share/eac035cf66924688f68d7c4e621b10f5)
+  - Digital Transformation with Google Cloud (2025)  
+    [View Certificate](https://coursera.org/share/3ddcdf470c7812017be8656ac3cf2946)
+  - Exploring Data Transformation with Google Cloud (2025)  
+    [View Certificate](https://coursera.org/share/a9b1fb7712a6f446476c70403d7087ea)
+
+- **IBM**  
+  - What is Data Science? (2025)  
+    [View Certificate](https://coursera.org/share/cf7c3e7ee3277fecaf85769e3f344998)
+
 - **Universidad de Costa Rica**  
   - Advanced Master’s Degree Student in Gerontology  
   - Degree in Nursing (2016)  
